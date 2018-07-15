@@ -1,7 +1,7 @@
 # Practica1ACE
 Cerințe:
 
-![Enunt](https://github.com/YungRAW/Practica1ACE/blob/master/Screenshot_37.png)
+![Enunt](https://github.com/YungRAW/Practica1ACE/blob/master/Screenshot.png)
 
 Considerând o baza de date cu minim 4 tabele se cere:
 - Sa se treacă in format XML tabelele din baza de date folosind una sau toate cele trei tehnologii din figura,
